@@ -1,0 +1,1 @@
+Unique words counter: {I=1, KKK---KKKK=1}
